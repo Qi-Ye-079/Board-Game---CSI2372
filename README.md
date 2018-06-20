@@ -9,6 +9,7 @@ It was tested and working on windows with Visual Studio 2015.
 This project is to implement a simple card game on console with C++ and all the programming concepts learned in the class. Refer to the [project description](https://github.com/Qi-Ye-079/CSI2372-Project-2016/blob/master/project2016.pdf) file for requirement details.
 
 The main objectives of this project include at least the following:
+
 *   Object-Oriented Programming concepts (Encapsulation, Polymorphism and Inheritance), including virtual functions and abstract class.
 *   Pointers (including smart pointers), references and memory allocation (static/dynamic)
 *   Constructors (default/explicit), copy constructors (shallow/deep), copy assignment operator, and destructors
